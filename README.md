@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Bruno Nabarrete.
 
-- 🔭 Hoje estudo desenvolvimento web Full Stack
-- 🌱 Aprendendo front-end
+- 🔭 Developer Full Stack
+- 🌱 Aprendendo C#
 - 📫 contate-me no email: brunonabarrete@hotmail.com
 - 😄 Pronouns: ele/dele
 
