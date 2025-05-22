@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Bruno Nabarrete.
 
 - 🔭 Developer Full Stack
-- 🌱 Aprendendo Java
 - 📫 contate-me no email: brunonabarrete@hotmail.com
 - 😄 Pronouns: ele/dele
 
